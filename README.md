@@ -1,0 +1,1 @@
+This website will contain links to 4 recipes. I will utilize only HTML at first and then modify the site later with CSS. My goal is to feature at least 2 Headers, multiple paragraphs (2-3) describing the origins of the recipe (country,creator/s,rise to fame), and images for all 4 recipes.
