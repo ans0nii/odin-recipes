@@ -1,0 +1,58 @@
+.odin-recipes{
+    text-align: center;
+    background-color: rgb(155, 156, 60);
+    padding: 5px;
+    border: 1px solid black;
+    margin-top: 10px;
+    margin: auto;
+    width: 400px;
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+
+.container{
+    display:flex;
+    justify-content: flex-start;
+    justify-content: center;
+    gap: 20px;
+}
+.steak{
+    background-color: red;
+    font-size: 30px;
+    padding: 30px;
+    border: solid black 1px;
+    width: 200px;
+    text-align: center;
+}
+
+.cinnamon-rolls{
+    background-color: rgb(136, 255, 0);
+    font-size: 30px;
+    padding: 30px;
+    padding-top: 40px;
+    border: solid black 1px;
+    width: 200px;
+    text-align: center;
+
+}
+
+.guac{
+    background-color: rgb(3, 253, 128);
+    padding: 30px;
+    padding-top: 40px;
+    border: solid black 1px;
+    font-size: 30px;
+    width: 200px;
+    text-align: center;
+}
+
+.schnitzel{
+    background-color: rgb(2, 107, 245);
+    font-size: 30px;
+    padding: 30px;
+    padding-top: 40px;
+    border: solid black 1px;
+    width: 200px;
+    text-align: center;
+
+}
